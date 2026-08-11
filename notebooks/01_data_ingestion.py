@@ -36,4 +36,4 @@ df_model = pd.get_dummies(df_model, columns=cat_cols, drop_first=True)
 # Save processed dataset into cleaned folder for model training
 output_path = project_root / "data" / "clean_ecommerce_data.csv"
 df_model.to_csv(output_path, index=False)
-print(f"\nSaved clean dataset to {output_path}")
+print("\nSaved clean dataset")
