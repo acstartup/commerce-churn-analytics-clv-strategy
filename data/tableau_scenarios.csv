@@ -1,0 +1,4 @@
+Scenario,Discount_Rate,Retention_Lift,Gross_Retained,Campaign_Cost,Net_Protected_Revenue,ROI_Percent
+Conservative (5%),0.05,0.035,35029.72,50042.46,-15012.74,-30.0
+Base Case (10%),0.1,0.15,150127.39,100084.93,50042.46,50.0
+Aggressive (20%),0.2,0.225,225191.09,200169.85,25021.23,12.5
